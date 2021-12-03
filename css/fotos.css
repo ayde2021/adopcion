@@ -1,0 +1,36 @@
+/* quienes sommos y exixtimos estilo de posicion*/
+.titulo4{
+    transform: translateX(0%) translateY(15%);
+    }
+    /*estilo del titulo*/
+    h4{
+        color: rgba(243, 104, 24, 0.986);
+        font-family: 'Open sans' negrita;
+        
+        transform: translateX(15%) translateY(750%);
+    }
+    /*estilo de la img*/
+    .img1,.img2,.img3,.img4{
+        transform: translateX(1100%) translateY(-200%);
+    }
+    .img3{
+        transform: translateX(1080%) translateY(-200%);
+    }
+    .img4{
+        transform: translateX(1080%) translateY(-200%);
+    }
+    /*estilo de la definicion*/
+    .de1{
+        transform: translateX(60%) translateY(-2000%);
+    }
+    .de2{
+        transform: translateX(60%) translateY(-1900%);
+       
+    }
+    .de3{
+    transform: translateX(60%) translateY(-1350%);
+    }
+    .de4{
+        transform: translateX(60%) translateY(-2120%);
+        }
+    
